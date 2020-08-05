@@ -10,6 +10,9 @@
 - Adrian Rodriguez
 
 ### Troops
+
+- Greg Curl
+- Ana Kutzner
 - Jeff Jessie
 - Chris Harley
 - Mark Helms
