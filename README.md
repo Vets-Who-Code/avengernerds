@@ -10,4 +10,5 @@
 - Adrian Rodriguez
 
 ### Troops
-Greg Curl
+- Chris Harley
+
