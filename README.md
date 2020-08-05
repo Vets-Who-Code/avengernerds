@@ -11,4 +11,5 @@
 
 ### Troops
 - Chris Harley
+- Greg Curl
 
