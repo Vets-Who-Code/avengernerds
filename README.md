@@ -10,5 +10,6 @@
 - Adrian Rodriguez
 
 ### Troops
+-Jeff Jessie
 - Chris Harley
 
