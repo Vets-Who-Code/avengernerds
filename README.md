@@ -12,4 +12,5 @@
 ### Troops
 - Jeff Jessie
 - Chris Harley
+- Greg Curl
 
