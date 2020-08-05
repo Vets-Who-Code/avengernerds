@@ -10,4 +10,4 @@
 - Adrian Rodriguez
 
 ### Troops
--Jeff Jessie
+- Jeff Jessie
