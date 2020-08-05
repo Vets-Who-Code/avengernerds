@@ -16,4 +16,5 @@
 - Jeff Jessie
 - Chris Harley
 - Mark Helms
+- Rich Kevan
 - Tyler Dezern
