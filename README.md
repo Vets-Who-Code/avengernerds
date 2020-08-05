@@ -10,7 +10,8 @@
 - Adrian Rodriguez
 
 ### Troops
--Jeff Jessie
+- Jeff Jessie
 - Chris Harley
+- Mark Helms
+- Greg Curl
 - Tyler Dezern
-
