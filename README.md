@@ -10,4 +10,10 @@
 - Adrian Rodriguez
 
 ### Troops
+<<<<<<< HEAD
 - Jeff Jessie
+=======
+-Jeff Jessie
+- Chris Harley
+
+>>>>>>> a37c01c9ed4a8dfa02c41beb15e6359d8966aa9c
