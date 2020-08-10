@@ -20,3 +20,4 @@
 - Tyler Dezern
 - Alex Kaprosy
 - Cindy Baldhoff
+- Thomas Fitzgerald
